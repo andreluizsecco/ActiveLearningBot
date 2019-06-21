@@ -1,0 +1,18 @@
+{
+    "name": "HotelBot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:60326/api/messages",
+            "id": "8e93dfe0-9385-11e9-b0f3-4b31b4e65be4",
+            "name": "HotelBot"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "D:\\Projetos\\GitHub\\ActiveLearningBot\\src\\HotelBot.bot"
+}

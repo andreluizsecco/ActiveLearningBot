@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29001.49
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActiveLearningBot", "ActiveLearningBot\ActiveLearningBot.csproj", "{5B26E291-199A-4C0F-9E84-CC42D14B09AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B26E291-199A-4C0F-9E84-CC42D14B09AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B26E291-199A-4C0F-9E84-CC42D14B09AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B26E291-199A-4C0F-9E84-CC42D14B09AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B26E291-199A-4C0F-9E84-CC42D14B09AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F308D882-2389-42F0-812F-87ED1BE94FB1}
+	EndGlobalSection
+EndGlobal
